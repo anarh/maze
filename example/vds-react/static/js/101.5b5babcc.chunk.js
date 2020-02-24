@@ -1,2 +1,0 @@
-(this["webpackJsonp@visa/vds-react"]=this["webpackJsonp@visa/vds-react"]||[]).push([[101],{1672:function(s,a,e){s.exports=e.p+"static/media/illustration-person-orange-beard-with-phone.13178fe7.svg"}}]);
-//# sourceMappingURL=101.5b5babcc.chunk.js.map
