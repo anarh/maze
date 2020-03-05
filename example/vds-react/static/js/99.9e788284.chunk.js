@@ -1,0 +1,2 @@
+(this["webpackJsonp@visa/vds-react"]=this["webpackJsonp@visa/vds-react"]||[]).push([[99],{1606:function(s,e,a){s.exports=a.p+"static/media/illustration-person-masked-money-hero-yellow-blue.7891c57d.svg"}}]);
+//# sourceMappingURL=99.9e788284.chunk.js.map

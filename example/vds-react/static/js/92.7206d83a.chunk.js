@@ -1,2 +1,0 @@
-(this["webpackJsonp@visa/vds-react"]=this["webpackJsonp@visa/vds-react"]||[]).push([[92],{1663:function(s,t,e){s.exports=e.p+"static/media/illustration-hero-workers-light-bg.e5925ef5.svg"}}]);
-//# sourceMappingURL=92.7206d83a.chunk.js.map

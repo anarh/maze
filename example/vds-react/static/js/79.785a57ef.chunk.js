@@ -1,2 +1,0 @@
-(this["webpackJsonp@visa/vds-react"]=this["webpackJsonp@visa/vds-react"]||[]).push([[79],{1650:function(s,a,e){s.exports=e.p+"static/media/illustration-hero-guy-on-laptop-plane-bg.62ee0eb4.svg"}}]);
-//# sourceMappingURL=79.785a57ef.chunk.js.map

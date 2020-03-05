@@ -1,2 +1,0 @@
-(this["webpackJsonp@visa/vds-react"]=this["webpackJsonp@visa/vds-react"]||[]).push([[88],{1659:function(s,t,a){s.exports=a.p+"static/media/illustration-hero-woman-with-book.48970f6f.svg"}}]);
-//# sourceMappingURL=88.2f2e684e.chunk.js.map
