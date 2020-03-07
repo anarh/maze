@@ -1,2 +1,0 @@
-(this["webpackJsonp@visa/vds-react"]=this["webpackJsonp@visa/vds-react"]||[]).push([[106],{1613:function(s,a,t){s.exports=t.p+"static/media/illustration-person-woman-with-phone.64aa53fa.svg"}}]);
-//# sourceMappingURL=106.917f337c.chunk.js.map

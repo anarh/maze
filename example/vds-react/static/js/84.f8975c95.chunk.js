@@ -1,2 +1,0 @@
-(this["webpackJsonp@visa/vds-react"]=this["webpackJsonp@visa/vds-react"]||[]).push([[84],{1591:function(s,t,i){s.exports=i.p+"static/media/illustration-hero-notebook-pencils-light-bulb.4e33c33a.svg"}}]);
-//# sourceMappingURL=84.f8975c95.chunk.js.map

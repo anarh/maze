@@ -1,2 +1,0 @@
-(this["webpackJsonp@visa/vds-react"]=this["webpackJsonp@visa/vds-react"]||[]).push([[129],{1636:function(s,e,a){s.exports=a.p+"static/media/illustration-scene-success-female-trophy-light.aee42ad7.svg"}}]);
-//# sourceMappingURL=129.c6fce35f.chunk.js.map

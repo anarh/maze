@@ -1,2 +1,0 @@
-(this["webpackJsonp@visa/vds-react"]=this["webpackJsonp@visa/vds-react"]||[]).push([[107],{1614:function(s,a,t){s.exports=t.p+"static/media/illustration-person-woman-with-scarf-and-phone.d558d84e.svg"}}]);
-//# sourceMappingURL=107.56449971.chunk.js.map
