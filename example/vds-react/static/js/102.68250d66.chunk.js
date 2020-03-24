@@ -1,2 +1,0 @@
-(this["webpackJsonp@visa/vds-react"]=this["webpackJsonp@visa/vds-react"]||[]).push([[102],{1611:function(s,a,i){s.exports=i.p+"static/media/illustration-person-orange-older-man-smiling.c10edb56.svg"}}]);
-//# sourceMappingURL=102.68250d66.chunk.js.map

@@ -1,2 +1,0 @@
-(this["webpackJsonp@visa/vds-react"]=this["webpackJsonp@visa/vds-react"]||[]).push([[124],{1633:function(s,a,e){s.exports=e.p+"static/media/illustration-scene-inspector-yellow-beard.041f8b9a.svg"}}]);
-//# sourceMappingURL=124.b4e8bcc0.chunk.js.map

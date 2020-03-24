@@ -1,2 +1,0 @@
-(this["webpackJsonp@visa/vds-react"]=this["webpackJsonp@visa/vds-react"]||[]).push([[127],{1636:function(s,e,a){s.exports=a.p+"static/media/illustration-scene-success-female-phone-color.f43bc05a.svg"}}]);
-//# sourceMappingURL=127.4b693bb2.chunk.js.map

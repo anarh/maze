@@ -1,0 +1,2 @@
+(this["webpackJsonp@visa/vds-react"]=this["webpackJsonp@visa/vds-react"]||[]).push([[81],{1610:function(s,a,i){s.exports=i.p+"static/media/illustration-hero-guy-with-globe-and-girl.3f5ae3db.svg"}}]);
+//# sourceMappingURL=81.aaf2e5d1.chunk.js.map

@@ -1,2 +1,0 @@
-(this["webpackJsonp@visa/vds-react"]=this["webpackJsonp@visa/vds-react"]||[]).push([[96],{1605:function(s,a,t){s.exports=t.p+"static/media/illustration-person-man-green-shirt-frontal.b14e749a.svg"}}]);
-//# sourceMappingURL=96.e8879a2f.chunk.js.map

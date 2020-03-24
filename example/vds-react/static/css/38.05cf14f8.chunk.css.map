@@ -1,1 +1,0 @@
-{"version":3,"sources":["styles.scss"],"names":[],"mappings":"AAAA,uBACE,qBAAsB,CACtB,gBAAiB,CACjB,YAAa,CACb,UAAW","file":"38.05cf14f8.chunk.css","sourcesContent":[".vds-tab-panel-example {\n  background-color: #eee;\n  min-height: 200px;\n  padding: 10px;\n  width: 100%;\n}\n"]}
