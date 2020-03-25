@@ -1,2 +1,0 @@
-(this["webpackJsonp@visa/vds-react"]=this["webpackJsonp@visa/vds-react"]||[]).push([[145],{1674:function(s,t,a){s.exports=a.p+"static/media/illustration-spotlight-phone-payment.1bba284a.svg"}}]);
-//# sourceMappingURL=145.f2153c8d.chunk.js.map

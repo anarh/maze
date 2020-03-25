@@ -1,2 +1,0 @@
-(this["webpackJsonp@visa/vds-react"]=this["webpackJsonp@visa/vds-react"]||[]).push([[82],{1611:function(s,i,t){s.exports=t.p+"static/media/illustration-hero-guy-with-presents-girl-in-bg.978b0638.svg"}}]);
-//# sourceMappingURL=82.4f578e55.chunk.js.map
