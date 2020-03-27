@@ -1,2 +1,0 @@
-(this["webpackJsonp@visa/vds-react"]=this["webpackJsonp@visa/vds-react"]||[]).push([[114],{1632:function(s,e,a){s.exports=a.p+"static/media/illustration-scene-card-success-female-qr-code-bg.66c93aeb.svg"}}]);
-//# sourceMappingURL=114.3ac2049e.chunk.js.map
