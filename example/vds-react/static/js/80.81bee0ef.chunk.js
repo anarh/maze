@@ -1,2 +1,0 @@
-(this["webpackJsonp@visa/vds-react"]=this["webpackJsonp@visa/vds-react"]||[]).push([[80],{1603:function(s,a,t){s.exports=t.p+"static/media/illustration-hero-guy-eating-with-man-woman-bg.3d0b3b34.svg"}}]);
-//# sourceMappingURL=80.81bee0ef.chunk.js.map
