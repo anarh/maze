@@ -1,2 +1,0 @@
-(this["webpackJsonp@visa/vds-react"]=this["webpackJsonp@visa/vds-react"]||[]).push([[140],{1669:function(s,i,t){s.exports=t.p+"static/media/illustration-spotlight-id-verified.85835140.svg"}}]);
-//# sourceMappingURL=140.c51b494d.chunk.js.map

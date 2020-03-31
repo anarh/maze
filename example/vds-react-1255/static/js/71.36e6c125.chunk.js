@@ -1,2 +1,0 @@
-(this["webpackJsonp@visa/vds-react"]=this["webpackJsonp@visa/vds-react"]||[]).push([[71],{248:function(s){s.exports=JSON.parse('{"results":[{"ancestorTitles":[],"failureMessages":[],"fullName":"renders without crashing","location":null,"numPassingAsserts":0,"status":"passed","title":"renders without crashing"}]}')}}]);
-//# sourceMappingURL=71.36e6c125.chunk.js.map
